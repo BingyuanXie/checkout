@@ -10,6 +10,8 @@
 
 # Checkout v5
 
+什么情况
+
 ## What's new
 
 - Updated to the node24 runtime
@@ -165,11 +167,13 @@ Please refer to the [release page](https://github.com/actions/checkout/releases/
 
 # Scenarios
 
-- [Checkout V5](#checkout-v5)
+- [Checkout v6](#checkout-v6)
   - [What's new](#whats-new)
-- [Checkout V4](#checkout-v4)
+- [Checkout v5](#checkout-v5)
+  - [What's new](#whats-new-1)
+- [Checkout v4](#checkout-v4)
     - [Note](#note)
-- [What's new](#whats-new-1)
+- [What's new](#whats-new-2)
 - [Usage](#usage)
 - [Scenarios](#scenarios)
   - [Fetch only the root files](#fetch-only-the-root-files)
